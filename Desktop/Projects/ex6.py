@@ -1,0 +1,6 @@
+name = input("Name: ")
+age = input("Age: ")
+height = input("Height(cm): ")
+weight = input("Weight(kg): ")
+eyeCol = input("Eye Colour: ")
+hairCol = input("Hair Colour: ")
